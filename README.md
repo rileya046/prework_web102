@@ -1,4 +1,4 @@
-# WEB102 Prework - PiratePledge
+![Peek_walkthrough](https://github.com/user-attachments/assets/822828c5-e3b3-4753-bed4-22edfa7890ff)# WEB102 Prework - PiratePledge
 
 Submitted by: **Alexia Riley** 
 
@@ -24,6 +24,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='peek9Y9W02.webm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Peek_walkthrough.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with peek
