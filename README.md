@@ -38,6 +38,10 @@ GIF created with peek
 
 Describe any challenges encountered while building the app.
 
+I faced some struggles with getting the sorting functions for the buttons to work properly, but this problem has since been fixed.
+
+There were also struggles with the recording of the app specifically, as my computer began to lag. Therefore the video is not currently a good representation of the final product.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
