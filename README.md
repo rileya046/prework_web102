@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='/home/lexie/web102_prework/peek9Y9W02.webm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='peek9Y9W02.webm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with peek
